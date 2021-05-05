@@ -52,6 +52,7 @@
         <members>L2GM_SP_Main_Test</members>
         <members>L2GM_TRPGAC_Issues_TableController</members>
         <members>L2GM_cloneAttachImplementatioPeriod_Test</members>
+        <members>AccountOperations</members>
         <name>ApexClass</name>
     </types>
     <types>
